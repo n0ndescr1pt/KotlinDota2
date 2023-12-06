@@ -1,5 +1,7 @@
 # KotlinDota2
 
+It's just frontend
+
 <table border="5">
   <tr>
     <picture>
